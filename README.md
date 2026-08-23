@@ -26,6 +26,10 @@ My current learning project is **[LLM Internals Lab](https://github.com/itsdaxen
 
 I've built real things with Next.js, React, and TypeScript — enough to have felt where shortcuts bite. I'm building engineering discipline while it's a habit rather than a rescue, and shipping polished, maintainable applications.
 
+In this regard, I have published a case study of one of my projects, Recruina. Recruina was tested with more than 30 real users over a two-month period. It combines a substantial PostgreSQL/Prisma data model with background job processing, private object storage, CV parsing workflows, and deployment through Docker and Caddy.
+
+[Read the Recruina case study →](https://github.com/itsdaxen/recruina-casestudy)
+
 ### AI-native capability with engineering first principle
 
 I use AI to move faster — never to replace understanding or ownership. I ground AI-assisted work in the codebase with specifications, ADRs, typed contracts, reviewable changes, automated and manual testing, and human review. I also take on no-AI challenges to strengthen the fundamentals.
