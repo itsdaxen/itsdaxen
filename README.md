@@ -26,11 +26,15 @@ My current learning project is **[LLM Internals Lab](https://github.com/itsdaxen
 
 I've built real things with Next.js, React, and TypeScript — enough to have felt where shortcuts bite. I'm building engineering discipline while it's a habit rather than a rescue, and shipping polished, maintainable applications.
 
-In this regard, I have published a case study of one of my projects, Recruina. Recruina was tested with more than 30 real users over a two-month period. It combines a substantial PostgreSQL/Prisma data model with background job processing, private object storage, CV parsing workflows, and deployment through Docker and Caddy.
+My newest shipped project is **[iMeal](https://github.com/itsdaxen/imeal)**, a live AI-native meal-planning app built with Next.js, TypeScript, and Supabase that streamlines meal planning and grocery shopping.
 
-[Read the Recruina case study →](https://github.com/itsdaxen/recruina-casestudy)
+[Open iMeal →](https://imealv2.vercel.app)
 
-### AI-native capability with engineering first principle
+I have also published a case study of **[Recruina](https://github.com/itsdaxen/recruina-casestudy)**, a recruitment operations platform that was tested with more than 30 real users over a two-month period. It combines a substantial PostgreSQL/Prisma data model with background job processing, private object storage, CV parsing workflows, and deployment through Docker and Caddy.
+
+[Open the Recruina demo →](https://recruina.vercel.app)
+
+### AI-native capability with engineering first principles
 
 I use AI to move faster — never to replace understanding or ownership. I ground AI-assisted work in the codebase with specifications, ADRs, typed contracts, reviewable changes, automated and manual testing, and human review. I also take on no-AI challenges to strengthen the fundamentals.
 
