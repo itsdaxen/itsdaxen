@@ -22,6 +22,10 @@ I'm going deeper into AI engineering: integrating and evaluating models, designi
 
 My current learning project is **[LLM Internals Lab](https://github.com/itsdaxen/llm-internals-lab)**, where I'm implementing the internals of a GPT-style language model from scratch with Python and PyTorch. It covers tokenization, next-token data sampling, token and positional embeddings, and trainable self-attention, with unit tests validating each stage and its tensor shapes.
 
+I also co-built **TwinTag** for the VEO360 challenge at JunctionX Vaasa: turning industrial scan imagery into reviewable 3D equipment tags. Four relay reference views became 10,000 synthetic images for training and validation; YOLO11m detection, E57 geometry, and Qwen3-VL context extraction bring equipment evidence and documentation into a Next.js workspace.
+
+[TwinTag frontend →](https://github.com/itsdaxen/twintag-frontend) · [TwinTag backend →](https://github.com/itsdaxen/twintag-backend)
+
 ### Engineered Next.js
 
 I've built real things with Next.js, React, and TypeScript — enough to have felt where shortcuts bite. I'm building engineering discipline while it's a habit rather than a rescue, and shipping polished, maintainable applications.
