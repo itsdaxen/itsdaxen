@@ -6,6 +6,7 @@ Student at the University of Oulu, specializing in Computer Engineering. Focused
 - **[IPython #15348](https://github.com/ipython/ipython/pull/15348)**: Restored `pathlib.Path` support in `IFrame`, preserving HTML escaping, with tests.
 
 ## Projects
+- **[RoomOS](https://github.com/itsdaxen/RoomOS)**: The project is under active development. It will be an OS made for baremetal ARM64, forcing me to learn more and use **machine code**, **assembly**, and eventually C. The project will start with a simpler start and features are meant to be added over a long span of time. For writing code, **Vim** will be used. This project is 100% written and documented by humans (the author).
 
 - **[nRF52840 DK / Zephyr](https://github.com/itsdaxen/nrf52840-zephyr):** Hands-on firmware learning and hardware testing with nRF Connect SDK. Built and flashed Zephyr samples, configured a BME280 over I2C, and verified live temperature, pressure and humidity readings over serial. Used multimeter voltage and continuity measurements for USB power-path troubleshooting.
 
