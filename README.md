@@ -20,4 +20,4 @@ Student at the University of Oulu, specializing in Computer Engineering. Focused
 
 - **[Recruina](https://github.com/itsdaxen/recruina-casestudy)**: Recruitment platform tested with 30+ users over two months. PostgreSQL/Prisma, background jobs, private storage, CV parsing, Docker/Caddy. [Demo](https://recruina.vercel.app)
 
-- **[iMeal](https://imealv2.vercel.app)**: A useful AI meal planning and groceries with Next.js, TypeScript, and Supabase.
+- **[iMeal](https://github.com/itsdaxen/imeal)**: A useful AI meal planning and groceries with Next.js, TypeScript, and Supabase. [Demo](https://imealv2.vercel.app)
